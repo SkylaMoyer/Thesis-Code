@@ -1,4 +1,4 @@
 # Rcarbon code for MA thesis 
-- Calibration and generation of SPD models on radiocarbon dates
-- Includes Independence I and Saaqaq assoicated radiocarbon dates
-- Includes sites from the Canadian Arctic and Greenland 
+-This directory contains code written in R for all analyses reported in
+Moyer, Skyla, "MIGRATIONS AND MALTHUSIAN DEMOGRAPHICS AMONGST TWO PIONEERING PALEO-INUIT TRADITIONS" (2025). Graduate Student Theses, Dissertations, & Professional Papers. 12456.
+https://scholarworks.umt.edu/etd/12456
