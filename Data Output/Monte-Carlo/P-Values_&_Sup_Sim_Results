@@ -1,0 +1,250 @@
+Independence I:
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 58
+Number of bins: 46
+Binning h Value: 100
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.005.
+
+Significant positive local deviations at:
+4509~4488 BP 
+4440~3887 BP 
+
+Significant negative local deviations at:
+5318~5033 BP 
+5008~4979 BP 
+3811~3805 BP 
+3715~3708 BP 
+3699~3563 BP 
+2340~2286 BP 
+2277~2147 BP 
+
+
+
+
+Supplemental Monte-Carlo Tests- Independence I:
+Binning h Value: 50:
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 58
+Number of bins: 50
+Binning h Value: 50
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.004.
+
+Significant positive local deviations at:
+4513~4483 BP 
+4443~3896 BP 
+
+Significant negative local deviations at:
+5319~4973 BP 
+3813~3803 BP 
+3716~3550 BP 
+3533~3508 BP 
+3505~3493 BP 
+2849~2758 BP 
+2340~2144 BP 
+2136~2126 BP
+
+Binning h Value: 200
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 58
+Number of bins: 41
+Binning h Value: 200
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.005.
+
+Significant positive local deviations at:
+4512~4484 BP 
+4442~3885 BP 
+
+Significant negative local deviations at:
+5317~5209 BP 
+5201~5048 BP 
+3695~3569 BP 
+2842~2827 BP 
+2784~2759 BP 
+2344~2293 BP 
+2269~2151 BP 
+
+Binning h Value: 300:
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 58
+Number of bins: 38
+Binning h Value: 300
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.005.
+
+Significant positive local deviations at:
+4513~4483 BP 
+4443~3892 BP 
+
+Significant negative local deviations at:
+5315~5206 BP 
+5204~5047 BP 
+3692~3560 BP 
+3523~3512 BP 
+3501~3497 BP 
+2879~2767 BP 
+2339~2290 BP 
+2272~2149 BP
+
+Binning h Value: 500
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 58
+Number of bins: 36
+Binning h Value: 500
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.01199.
+
+Significant positive local deviations at:
+4423~3892 BP 
+
+Significant negative local deviations at:
+5319~5211 BP 
+5198~5049 BP 
+3693~3557 BP 
+3553~3551 BP 
+3532~3509 BP 
+3504~3494 BP 
+2920~2905 BP 
+2880~2770 BP 
+2334~2298 BP 
+2259~2156 BP 
+
+Time Range: 500-5000 cal. BP:
+Number of radiocarbon dates: 58
+Number of bins: 46
+Binning h Value: 100
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.01798.
+
+Significant positive local deviations at:
+4414~3970 BP 
+3943~3931 BP 
+
+Significant negative local deviations at:
+5000~4803 BP 
+4756~4698 BP 
+4673~4649 BP 
+3696~3563 BP
+
+
+
+
+Saqqaq: 
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 117
+Number of bins: 73
+Binning h Value: 100
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.00899
+
+Significant positive local deviations at:
+4239~3480 BP 
+3474~3468 BP 
+
+Significant negative local deviations at:
+2724~2457 BP 
+2453~2431 BP 
+2428~2421 BP 
+2383~2372 BP 
+1887~973 BP 
+
+
+
+
+Supplemental Monte-Carlo Tests- Saqqaq:
+Binning h Value: 50:
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 117
+Number of bins: 85
+Binning h Value: 50
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.00699.
+
+Significant positive local deviations at:
+4235~4196 BP 
+4185~3485 BP 
+
+Significant negative local deviations at:
+2726~2356 BP 
+1925~959 BP 
+
+Binning h Value: 200
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 117
+Number of bins: 61
+Binning h Value: 200
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.01299.
+
+Significant positive local deviations at:
+4239~3487 BP 
+
+Significant negative local deviations at:
+2722~2695 BP 
+2693~2692 BP 
+2690 BP 
+2640~2614 BP 
+2596~2496 BP 
+1870~1851 BP 
+1842~1047 BP 
+1037~975 BP 
+
+Binning h Value: 300:
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 117
+Number of bins: 49
+Binning h Value: 300
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.02597.
+
+Significant positive local deviations at:
+4242~3565 BP 
+
+Significant negative local deviations at:
+2722~2671 BP 
+2656~2612 BP 
+2600~2494 BP 
+1872~1848 BP 
+1846~1056 BP 
+1025~1001 BP 
+
+Binning h Value: 500
+Time Range: 500-6000 cal. BP
+Number of radiocarbon dates: 117
+Number of bins: 44
+Binning h Value: 500
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.02498.
+
+Significant positive local deviations at:
+5470~4853 BP 
+4851 BP 
+4076~4042 BP 
+3990~3574 BP 
+
+Significant negative local deviations at:
+1866~1855 BP 
+1834~1058 BP 
+1019~1009 BP 
+
+Time Range: 500-5000 cal. BP:
+Number of radiocarbon dates: 117
+Number of bins: 73
+Binning h Value: 100
+Statistical Significance computed using 1000 simulations. 
+Global p-value: 0.00599.
+
+Significant positive local deviations at:
+4083~4031 BP 
+4008~3548 BP 
+3541~3491 BP 
+
+Significant negative local deviations at:
+2726~2669 BP 
+2657~2611 BP 
+2601~2493 BP 
+1870~1851 BP 
+1842~1056 BP 
+1024~1003 BP 
